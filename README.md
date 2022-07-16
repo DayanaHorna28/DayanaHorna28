@@ -1,6 +1,6 @@
 ## WELCOME 👋
 ### Hi, I am Dayana Estefany Horna Cerna
-<!--
+----
 
 - :mortar_board: Systems engineer student :black_nib:
 - 🔭 
