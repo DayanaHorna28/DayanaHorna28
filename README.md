@@ -23,3 +23,13 @@
 ![Notion](https://img.shields.io/badge/-Notion-white?style=flat-square&logoColor=black&logo=Notion)
 
 ----
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DayanaHorna28&count_private=true&show_icons=true&include_all_commits=true&theme=gotham) &nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayanaHorna28&hide=TeX&layout=compact&theme=gotham)
+
+----
+## Activity Trends
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DayanaHorna28&theme=dracula&hide_border=true)
+
+----
