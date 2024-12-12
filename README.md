@@ -10,7 +10,7 @@
 
 ## 👥 Social Media
 
-[![Instagram Badge](https://img.shields.io/badge/-DayanaHorna-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dayana_hc_/)](https://www.instagram.com/dayana_hc_/) &nbsp;&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-DayanaHorna-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dayana_hc_/)](https://www.instagram.com/_dayana2812/) &nbsp;&nbsp;
 
 ### 🌱 Tech Stack
 
