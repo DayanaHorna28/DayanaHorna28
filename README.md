@@ -14,11 +14,20 @@
 
 ### 🌱 Tech Stack
 
+#### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) &nbsp;
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) &nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) &nbsp;
+
+#### Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) &nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) &nbsp;
+
+#### Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git) &nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) &nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-silver?style=flat-square&logoColor=black&logo=Figma) &nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-white?style=flat-square&logoColor=black&logo=Notion)
 
